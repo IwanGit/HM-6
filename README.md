@@ -1,1 +1,2 @@
-# HM-6
+# vs-code-projects
+ 

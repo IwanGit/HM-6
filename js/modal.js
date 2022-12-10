@@ -10,5 +10,7 @@
 
     function toggleModal() {
         refs.modal.classList.toggle("is-hidden");
+        //добавить рядок, чтобы боди не скролилось
+        document.body.classList.toggle("modal-open");
     }
 })();
